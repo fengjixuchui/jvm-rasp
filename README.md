@@ -40,6 +40,6 @@
 `DetectRCELoggerModule` 通过Hook底层执行命令的函数，回溯判断攻击类型，并迅速定位整个调用栈。
 
 ## 0x05 参考文章  
-[https://www.angelwhu.com/blog/?p=555](https://www.angelwhu.com/blog/?p=555)
+[RASP技术实现](https://www.angelwhu.com/paper/2019/05/12/rasp-technology-implementation/#more)
 
 
